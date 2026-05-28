@@ -26,4 +26,4 @@ Construir projetos reais e montar um portfólio sólido.
 
 ---
 
-*"Em construção, como todo bom dev."* 🔧
+*Em construção, como todo futuros bons desenvolvedores fazem!* 🔧
